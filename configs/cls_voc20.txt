@@ -1,0 +1,20 @@
+aeroplane
+bicycle
+bird
+ship
+bottle
+bus
+car
+cat
+chair
+cow
+table
+dog
+horse
+motorbike
+person, person in shirt, person in jeans, person in dress, person in sweater, person in skirt, person in jacket
+pottedplant
+sheep
+sofa
+train
+television monitor, tv monitor, monitor, television, screen
