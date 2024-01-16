@@ -45,12 +45,12 @@ python datasets/cvt_coco_object.py PATH_TO_COCO_STUFF164K -o PATH_TO_COCO164K
 Single-GPU running:
 
 ```
-python eval.py --config ./config/cfg_DATASET.py --workdir YOUR_WORK_DIR
+python eval.py --config ./configs/cfg_DATASET.py --workdir YOUR_WORK_DIR
 ```
 
 Multi-GPU running:
 ```
-bash ./dist_test.sh ./config/cfg_DATASET.py
+bash ./dist_test.sh ./configs/cfg_DATASET.py
 ```
 
 
