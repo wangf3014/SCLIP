@@ -1,8 +1,8 @@
 # SCLIP: Rethinking Self-Attention for Dense Vision-Language Inference
 
-**Official PyTorch implementation of SCLIP**
+**Official PyTorch implementation of SCLIP, ECCV 2024**
 
-* [SCLIP: Rethinking Self-Attention for Dense Vision-Language Inference](https://arxiv.org/pdf/2312.01597.pdf), Preprint, under review.
+* [SCLIP: Rethinking Self-Attention for Dense Vision-Language Inference](https://arxiv.org/pdf/2312.01597.pdf).
 * A **simple** but very effective open-vocabulary semantic segmentation model derived from CLIP.
 * **SOTA** zero-shot segmentation results obtained by minimal modifications to CLIP's self-attention.
 
